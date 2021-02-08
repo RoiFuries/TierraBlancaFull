@@ -1198,7 +1198,7 @@ ul.tags li a, ul.social_icon li a,
 
 /* ========== Our Food ======== */
 #page_header{
-	background:url(../images/page-header.jpg) no-repeat;
+	background:url(../images/TB/page-header.jpg) no-repeat;
 	width:100%;
 	position:relative;
 	min-height:280px;
@@ -1926,11 +1926,11 @@ form.callus .btn-submit:hover{
 /* ============ Order section ============= */
 .order_form{
 	position:relative;
-	background:url(../images/chef-order.png) no-repeat;
+	background:url(../images/TB/chef-order.png) no-repeat;
 	background-position:bottom right;
 }
 .order_section {
-	background:url(../images/order-bg.jpg)  no-repeat fixed;
+	background:url(../images/TB/order-bg.jpg)  no-repeat fixed;
 	background-position:center center;	
 }
 .order_section h2, .order_section p{ color:#fff; }
